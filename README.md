@@ -9,5 +9,5 @@ It is made with:
 -react-quill  
 -swr
 
-It's been thanks to llama dev.  
+It's been made thanks to llama dev.  
 :checkered_flag::checkered_flag:
