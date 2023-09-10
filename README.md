@@ -8,6 +8,7 @@ It is made with:
 -firebase  
 -react-quill  
 -swr
+-mongoDB
 
 It's been made thanks to llama dev.  
 :checkered_flag::checkered_flag:
